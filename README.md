@@ -39,7 +39,7 @@ This project contains code for a Telegram bot and background clicker that intera
    - `/stop` to Stop bot
 
 ## Screenshots
-![](NotCoin.png)
+![](Notcoin.jpg)
 
 
 
