@@ -13,7 +13,7 @@ This project contains code for a Telegram bot and background clicker that intera
 
 1. Clone the repository
    ```
-   git clone https://github.com/Poryaei/NotCoin-Clicker.git
+ [git clone https://github.com/Poryaei/NotCoin-Clicker.git](https://github.com/salehpx/notcoin-Clicker.git)
    ```
    
 2. Install dependencies
