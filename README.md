@@ -1,5 +1,4 @@
-# notcoin-Clicker
-A Simple Python bot and automated clicker for accumulating N# NotCoin Clicker Bot
+# NotCoin Clicker Bot
 
 A Python bot and automated clicker for accumulating NotCoins on Telegram.
 
@@ -40,7 +39,7 @@ This project contains code for a Telegram bot and background clicker that intera
    - `/stop` to Stop bot
 
 ## Screenshots
-![](Notcoin.jpg)
+![](NotCoin.jpg)
 
 
 
@@ -57,5 +56,3 @@ This project is intended for educational purposes only. Use at your own risk.
 
 Contributions are welcome! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
 
-[README.md](https://github.com/salehpx/notcoin-Clicker/files/14126456/README.md)
-otCoins on Telegram.
