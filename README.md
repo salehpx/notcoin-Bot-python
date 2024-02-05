@@ -1,4 +1,4 @@
-# NotCoin Clicker Bot
+# NotCoin  Bot
 
 A Python bot and automated clicker for accumulating NotCoins on Telegram.
 
