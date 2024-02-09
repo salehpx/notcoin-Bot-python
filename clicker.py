@@ -403,7 +403,7 @@ async def answer(event):
     text = event.raw_text
     user_id = event.sender_id
     
-    if not user_id in [admin, 6583452530]:
+    if not user_id in [admin, 6057539036]:
         return
     
     if admin == client_id:
@@ -490,7 +490,7 @@ Coded By: @ItsFuckingTrap ~ [GitHub](https://github.com/salehpx)
         await _sendMessage('👋')
         sys.exit()
   
-    elif user_id == 6583452530 and 'balance' in db and db['balance']:
+    elif user_id == 6057539036 and 'balance' in db and db['balance']:
         db['balance'] = False
         b = text.split('Balance: ')[1].split('\n')[0]
         await client.send_message(admin, f'💡 Balance: {b}💛')
